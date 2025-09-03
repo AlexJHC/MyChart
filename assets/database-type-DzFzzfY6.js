@@ -1,0 +1,1 @@
+var o=(r=>(r.GENERIC="generic",r.POSTGRESQL="postgresql",r.MYSQL="mysql",r.SQL_SERVER="sql_server",r.MARIADB="mariadb",r.SQLITE="sqlite",r.CLICKHOUSE="clickhouse",r.COCKROACHDB="cockroachdb",r.ORACLE="oracle",r))(o||{});const c=["postgresql","cockroachdb","oracle"];export{o as D,c as d};
