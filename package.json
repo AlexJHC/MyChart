@@ -1,5 +1,6 @@
 {
     "name": "chartdb",
+    "homepage": "https://your-username.github.io/AlexJHC/MyChart",
     "private": true,
     "version": "1.14.0",
     "type": "module",
@@ -98,6 +99,7 @@
         "eslint-plugin-react-hooks": "^5.1.0",
         "eslint-plugin-react-refresh": "^0.4.7",
         "eslint-plugin-tailwindcss": "^3.17.4",
+        "gh-pages": "^6.3.0",
         "globals": "^15.13.0",
         "happy-dom": "^18.0.1",
         "husky": "^9.1.5",
